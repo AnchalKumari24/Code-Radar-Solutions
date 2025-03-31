@@ -1,4 +1,9 @@
 #include <stdio.h>
-float a ;
+int main(){
+    float a ;
 scanf("%f",&a);
-printf("%f/n",a)
+printf(" You entered:%f",a);
+return 0;
+
+}
+
