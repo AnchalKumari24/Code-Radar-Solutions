@@ -1,4 +1,4 @@
-#include<stidio.h>
+#include<stdio.h>
 #include<math.h>
 int main(){
     float r,pi,A;
