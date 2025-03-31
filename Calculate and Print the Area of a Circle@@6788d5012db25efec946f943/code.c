@@ -6,5 +6,5 @@ int main(){
 
     scanf("%f",&r);
     A = pi *r*r;
-    printf("%.2f",A)
+    printf("%.2f",A);
 }
