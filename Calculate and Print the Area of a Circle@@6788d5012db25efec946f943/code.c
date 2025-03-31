@@ -1,8 +1,8 @@
 #include<stdio.h>
-#include<math.h>
+const pi = 3.14;
 int main(){
     float r,A;
-    const pi = 3.14;
+    
 
     scanf("%f",&r);
     A = pi *r*r;
